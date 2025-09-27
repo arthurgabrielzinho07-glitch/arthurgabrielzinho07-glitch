@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur
 
-Me chamo **Arthur Gabriel**, nascido em 2007, sou natral do **Piauí** e moro em **Parnaíba**. Concluí o eensino médio e me tornei **Técnico em Informática** pelo **Liceu Parnaibano**. Atualmente estou cursando **Tecnologo em Informática** na **UESPI**. Desde pequeno sempre tive curiosidade de como era o munda da computação e futuramente pretendo me tornar um desenvolver 
+Me chamo **Arthur Gabriel**, nascido em 2007, sou natural do **Piauí** e moro em **Parnaíba**. Concluí o ensino médio e me tornei **Técnico em Informática** pelo **Liceu Parnaibano**. Atualmente estou cursando **Tecnologo em Sistema de Computação** na **UESPI**. Desde pequeno sempre tive curiosidade de como era o munda da computação e futuramente pretendo me tornar um desenvolver 
 
 ### Redes Sociais
 <p align="left">
