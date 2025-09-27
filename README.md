@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! Eu sou o Arthur
 
-<!--
-**arthurgabrielzinho07-glitch/arthurgabrielzinho07-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Arthur Gabriel**, nascido em 2007, sou natral do **Piauí** e moro em **Parnaíba**. Concluí o eensino médio e me tornei **Técnico em Informática** pelo **Liceu Parnaibano**. Atualmente estou cursando **Tecnologo em Informática** na **UESPI**. Desde pequeno sempre tive curiosidade de como era o munda da computação e futuramente pretendo me tornar um desenvolver 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Redes Sociais
+<p align="left">
+    <a href="https://www.linkedin.com/in/arthur-gabriel-santos/">
+        <img height="30" width="40"
+            alt="Linkedin Arthur Gabriel Santos"
+            title="Linkedin Arthur Gabriel Santos"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+   <a href="https://www.instagram.com/4rtkzx/">
+        <img height="30" width="40"
+            alt="Instagram Arthur Gabriel Santos"
+            title="Instagram Arthur Gabriel Santos"
+            src="https://www.svgrepo.com/show/452229/instagram-1.svg"/>
