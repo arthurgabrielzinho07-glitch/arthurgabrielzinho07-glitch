@@ -4,7 +4,7 @@ Me chamo **Arthur Gabriel**, nascido em 2007, sou natural do **Piauí** e moro e
 
 ### Redes Sociais
 <p align="left">
-    <a href="https://www.linkedin.com/in/arthur-gabriel-santos/">
+    <a href="https://www.linkedin.com/in/arthur-gabriel-santos-221093379">
         <img height="30" width="40"
             alt="Linkedin Arthur Gabriel Santos"
             title="Linkedin Arthur Gabriel Santos"
